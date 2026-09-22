@@ -14,8 +14,6 @@ App mobile para a disciplina **Mobile Development & IoT** (FIAP — 3ESPY) no de
 |---|---|
 | Milena Codinhoto da Silva | 554682 |
 | Pedro Henrique Martins Alves dos Santos | 558107 |
-| Anthony K. Motobe | 558488 |
-| Evellyn Valencia | 557929 |
 | Felipe Cerboncini Cordeiro | 554909 |
 
 ---
