@@ -6,6 +6,31 @@ App mobile para a disciplina **Mobile Development & IoT** (FIAP — 3ESPY) no de
 
 > 📌 **Este repositório contém apenas a aplicação mobile** (React Native + Expo). A **API REST é um projeto separado** (`Ford-api`) com deploy independente. O app apenas **consome** essa API.
 
+## 📱 Demonstração Visual
+
+Abaixo encontra-se a demonstração dos principais fluxos da aplicação.
+
+<div align="center">
+  <img src="./docs/Tela-Inicial.png" width="250px" alt="Tela Inicial" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="./docs/Consulta.png" width="250px" alt="Tela de Consulta" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="./docs/Atributos.png" width="250px" alt="Tela de Selecionar Atributos" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="./docs/Ficha-Tecnica.png" width="250px" alt="Tela da Ficha Técnica" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="./docs/Historico.png" width="250px" alt="Tela de Histórico" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="./docs/Comparar1.png" width="250px" alt="Tela de Selecionar os carros para a Comparação" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="./docs/Comparacao2.png" width="250px" alt="Tela da Comparação" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="./docs/Perfil.png" width="250px" alt="Tela de Perfil" />
+  &nbsp;&nbsp;&nbsp;
+</div>
+
+
+
 ---
 
 ## 👥 Equipe
