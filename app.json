@@ -24,10 +24,12 @@
     "android": {
       "package": "com.fiap.fordscan",
       "permissions": [
-        "CAMERA",
-        "READ_EXTERNAL_STORAGE",
-        "WRITE_EXTERNAL_STORAGE",
-        "NOTIFICATIONS"
+        "android.permission.CAMERA",
+        "android.permission.READ_EXTERNAL_STORAGE",
+        "android.permission.WRITE_EXTERNAL_STORAGE",
+        "android.permission.NOTIFICATIONS",
+        "android.permission.CAMERA",
+        "android.permission.RECORD_AUDIO"
       ]
     },
     "web": {
@@ -52,6 +54,11 @@
           "color": "#0A1F44"
         }
       ]
-    ]
+    ],
+    "extra": {
+      "eas": {
+        "projectId": "3ea08fb6-eb96-4ed7-85f5-becf2c752d8c"
+      }
+    }
   }
 }
